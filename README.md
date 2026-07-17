@@ -211,8 +211,4 @@ project.ipynb
 
 **Lilia Beglaryan**
 
-Master's Thesis
-
-National Polytechnic University of Armenia
-
 2026
